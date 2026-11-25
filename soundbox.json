@@ -1,0 +1,77 @@
+{
+ "version": 1,
+ "slots": [
+  {
+   "name": "Taverne",
+   "file": "sons/01-taverne.mp3",
+   "vol": 100,
+   "orig": "Taverne.mp3"
+  },
+  {
+   "name": "Musique de fête",
+   "file": "sons/02-musique-de-fete.mp3",
+   "vol": 100,
+   "orig": "Fête.mp3"
+  },
+  {
+   "name": "Combat",
+   "file": "sons/03-combat.mp3",
+   "vol": 51,
+   "orig": "Combat.mp3"
+  },
+  {
+   "name": "Combat tendu",
+   "file": "sons/04-combat-tendu.mp3",
+   "vol": 47,
+   "orig": "Combat épique_.mp3"
+  },
+  {
+   "name": "Combat épique",
+   "file": "sons/05-combat-epique.mp3",
+   "vol": 47,
+   "orig": "Combat épique 2.mp3"
+  },
+  {
+   "name": "Forêt",
+   "file": "sons/06-foret.mp3",
+   "vol": 100,
+   "orig": "forêt.mp3"
+  },
+  {
+   "name": "Montagne",
+   "file": "",
+   "vol": 100,
+   "orig": ""
+  },
+  {
+   "name": "Boutique",
+   "file": "sons/08-boutique.mp3",
+   "vol": 31,
+   "orig": "Boutique.mp3"
+  },
+  {
+   "name": "Ville (jour)",
+   "file": "sons/09-ville-jour.mp3",
+   "vol": 100,
+   "orig": "ville.mp3"
+  },
+  {
+   "name": "Ville (nuit)",
+   "file": "",
+   "vol": 100,
+   "orig": ""
+  },
+  {
+   "name": "Feu de camp",
+   "file": "sons/11-feu-de-camp.mp3",
+   "vol": 100,
+   "orig": "feu de camp (nuit).mp3"
+  },
+  {
+   "name": "Tempête",
+   "file": "sons/12-tempete.mp3",
+   "vol": 100,
+   "orig": "tempête.mp3"
+  }
+ ]
+}
